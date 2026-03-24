@@ -1,19 +1,19 @@
-# @babel/helper-globals
+# @babel/helper-module-transforms
 
-> A collection of JavaScript globals for Babel internal usage
+> Babel helper functions for implementing ES6 module transformations
 
-See our website [@babel/helper-globals](https://babeljs.io/docs/babel-helper-globals) for more information.
+See our website [@babel/helper-module-transforms](https://babeljs.io/docs/babel-helper-module-transforms) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-globals
+npm install --save @babel/helper-module-transforms
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-globals
+yarn add @babel/helper-module-transforms
 ```
